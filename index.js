@@ -1,5 +1,5 @@
-const name=prompt("Enter Your Beautiful Nick Name:");
-document.getElementById("para").textContent=`${name}'s`;
+// const name=prompt("Enter Your Beautiful Nick Name:");
+// document.getElementById("para").textContent=`${name}'s`;
 
 
 

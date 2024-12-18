@@ -15,19 +15,19 @@ body{
     /* border: 1px solid black; */
     margin-top: 60px;
 }
-h1{
+/* h1{
     display: inline-flex;
     /* flex-direction:column; */
     /* justify-content: center; */
-    align-items: center;
+    /* align-items: center;
     gap: 5px;
-}
-p{
+} */
+/* p{
     display:inline;
     margin: 0;
     font-weight:bold;
     text-transform: uppercase;
-}
+} */ 
 .input-container{
     /* border:1px solid black; */
     width:100%;
