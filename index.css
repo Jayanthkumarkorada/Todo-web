@@ -13,7 +13,20 @@ body{
     justify-content:center;
     align-items:center;
     /* border: 1px solid black; */
-    margin-top: 20px;
+    margin-top: 60px;
+}
+h1{
+    display: inline-flex;
+    /* flex-direction:column; */
+    /* justify-content: center; */
+    align-items: center;
+    gap: 5px;
+}
+p{
+    display:inline;
+    margin: 0;
+    font-weight:bold;
+    text-transform: uppercase;
 }
 .input-container{
     /* border:1px solid black; */

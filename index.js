@@ -1,3 +1,10 @@
+const name=prompt("Enter Your Beautiful Nick Name:");
+document.getElementById("para").textContent=`${name}'s`;
+
+
+
+
+
 const inputBox=document.getElementById('inputBox');
 const addBtn=document.getElementById('addBtn');
 const todoList=document.getElementById('todoList');
